@@ -4,7 +4,7 @@
 建议先下载一个梯子软件，不然别的软件都有点难下
 |软件名称|软件地址|用于……|
 |-------|-----|-----|
-|VPN中转站|<a href="https://gw-1.xn--ehqx7tcnnope.com/#/login" target="_blank">点击打开中转站</a>|VPN中转站，便宜量大|
+|VPN中转站|<a href="https://gw-1.xn--ehqx7tcnnope.com/#/login" target="_blank" rel="noopener noreferrer">点击打开中转站</a>|VPN中转站，便宜量大|
 | clash verge |https://github.com/Clash-Verge-rev/clash-verge-rev| 🪜 |
 
 之后就开着梯子下载相关的东西

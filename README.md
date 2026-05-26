@@ -4,7 +4,11 @@
 建议先下载一个梯子软件，不然别的软件都有点难下
 |软件名称|软件地址|用于……|
 |-------|-----|-----|
-| clash verge | 0 | 🪜 |
+｜VPN中转站｜https://gw-1.xn--ehqx7tcnnope.com/#/login｜VPN中转站，便宜量大｜
+| clash verge |https://clashverge.lefly.cloud/install.html| 🪜 |
+之后就开着梯子下载相关的东西
+|软件名称|软件地址|用于……|
+|-------|-----|-----|
 | google | 0 | web |
 | notion | 0 | 规划 |
 |obsidian| 0 |md文档编辑（与notion有一定重合）｜

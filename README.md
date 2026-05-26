@@ -5,13 +5,13 @@
 |软件名称|软件地址|用于……|
 |-------|-----|-----|
 ｜VPN中转站｜https://gw-1.xn--ehqx7tcnnope.com/#/login｜VPN中转站，便宜量大｜
-| clash verge |https://clashverge.lefly.cloud/install.html| 🪜 |
+| clash verge |https://github.com/Clash-Verge-rev/clash-verge-rev| 🪜 |
 之后就开着梯子下载相关的东西
 |软件名称|软件地址|用于……|
 |-------|-----|-----|
-| google | 0 | web |
-| notion | 0 | 规划 |
-|obsidian| 0 |md文档编辑（与notion有一定重合）｜
-|zotero|0|文献管理|
-|codex|0|vibe coding|
-|v-api|0|API中转站|
+| google | https://www.google.com/intl/zh-CN/chrome/ | web |
+| notion | https://www.notion.com/| 规划 |
+|obsidian| https://obsidian.md/ |md文档编辑（与notion有一定重合）｜
+|zotero|https://www.zotero.org/|文献管理|
+|codex|https://openai.com/zh-Hans-CN/codex/|vibe coding|
+|v-api|https://api.v3.cm/|API中转站|

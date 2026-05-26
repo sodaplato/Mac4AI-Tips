@@ -5,7 +5,7 @@
 |软件名称|软件地址|用于……|
 |-------|-----|-----|
 |VPN中转站|<a href="https://gw-1.xn--ehqx7tcnnope.com/#/login" target="_blank" rel="noopener noreferrer">点击打开中转站</a>|VPN中转站，便宜量大|
-| clash verge |<a href="https://github.com/Clash-Verge-rev/clash-verge-rev" target="_blank" rel="noopener noreferrer">点击打开中转站</a>| 🪜 |
+| clash verge |<a href="https://github.com/Clash-Verge-rev/clash-verge-rev" target="_blank" rel="noopener noreferrer">calsh verge</a>| 🪜 |
 
 之后就开着梯子下载相关的东西
 |软件名称|软件地址|用于……|
@@ -16,3 +16,6 @@
 |zotero|https://www.zotero.org/|文献管理|
 |codex|https://openai.com/zh-Hans-CN/codex/|vibe coding|
 |v-api|https://api.v3.cm/|API中转站|
+
+# Zotero插件配置
+插件来源：<a href="https://zotero-chinese.com/plugins/" target="_blank" rel="noopener noreferrer">Zotero中文社区</a>
